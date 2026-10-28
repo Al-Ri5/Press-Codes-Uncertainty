@@ -37,7 +37,7 @@ The reader-facing uncertainty-communication methods are:
 - Online corrections must be marked as such, linked to the original item, and must show what was wrong and how and when the content was changed.
 
 
-### Granting visible reply and airing contested views:
+### Making affected parties’ voices and contested views visible:
 - When no response could be obtained from an accused or criticised party, the public must be told of this in the report itself.
 - Diverse and opposing views on contested matters must be presented so the audience can see the contested nature of the information.
 - Those affected by accusations or criticism must be given a fair, timely and prominently published opportunity to reply, preferably in the same publication.
